@@ -36,7 +36,7 @@ DATABASES.update(
     {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': '1620148368_yeehao1620_1',  # 数据库名
+            'NAME': '1620148368_yee1620_1',  # 数据库名
             'USER': 'yeehao',  # 数据库用户
             'PASSWORD': 'yee_hao123',  # 数据库密码
             'HOST': '10.0.2.8',  # 数据库主机
